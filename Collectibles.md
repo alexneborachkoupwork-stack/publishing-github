@@ -1,4 +1,4 @@
-[Big Star Logo](images/logo_bigstar.svg)
+<img src="images/logo_stargazers_bug.svg" alt="StarGazers Log" style="width:300px;"/>
 
 Founded in 2012, Big Star Collectibles is the premier online retailer of trading card and other collectibles. If your hobby is collecting, we've got the stock you want.
 
